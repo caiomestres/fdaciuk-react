@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title> </title>
+  <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.35/browser.min.js"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/6.1.19/browser.min.js"></script> -->
+</head>
+
+<body>
+  <div id='app'></div>
+  <script type="text/babel">
+    // var h1 = React.DOM.h1(null, [
+    //   React.DOM.span(null, React.DOM.i(null, 'Itálico')),
+    //   React.DOM.span(null, 'texto do span2')
+    // ])
+    // console.log(h1)
+    // //OUTRA FORMA DIFERENTE da com React.createElement, passando 2 parâmetros em vez de 3, 
+    // //Não funciona no REACT 16 ?! Babel também tem que usar a versão 5.8.35, senão, não roda o babel corretamente.
+    // //Pode usar sem medo o JSX pois ele aumenta sim, absurdamente o tempo de compilação, mas esse código vai ser compilado pelo webpack antes mesmo de subir, então o browser vai nem saber o que é JSX.
+
+    ReactDOM.render(
+      <h1>Hello World</h1>,
+      document.getElementById("app")) 
+  </script>
+</body>
+
+</html>
