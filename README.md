@@ -1,23 +1,12 @@
 # fdaciuk-react
 Notas da aulas de React de Fernando Daciuk
-
+[X]mrw - React+Webpack :astonished: 
 [X]m1a1 :astonished: 
 [X]m1a2 :astonished: 
 [X]m1a3 :astonished: 
 [X]m1a4 :astonished: 
 [X]m1a5 :astonished: 
 [X]m1a6 :astonished: 
-[X]mrw01 :astonished: 
-[X]mrw02 :astonished: 
-[X]mrw03 :astonished: 
-[X]mrw04 :astonished: 
-[X]mrw04 :astonished: 
-[X]mrw05 :astonished: 
-[X]mrw06 :astonished: 
-[X]mrw07 :astonished: 
-[X]mrw08 :astonished: 
-[]mrw09 
-[]mrw10 
 []m1#a7 
 []m1#a8 
 []m1#a9 
