@@ -2,12 +2,19 @@
 Notas da aulas de React de Fernando Daciuk
 [X]mrw - React+Webpack :astonished: 
 [X]m1a1 :astonished: 
+
 [X]m1a2 :astonished: 
+
 [X]m1a3 :astonished: 
+
 [X]m1a4 :astonished: 
+
 [X]m1a5 :astonished: 
+
 [X]m1a6 :astonished: 
-[]m1#a7 
+
+[X]m1#a7:astonished: 
+
 []m1#a8 
 []m1#a9 
 []m1#a10 
@@ -55,6 +62,9 @@ Notas da aulas de React de Fernando Daciuk
 []m1#a52 
 []m1#a53 
 []m1#a54
+
 []m2{...} 
+
 []m3{...} 
+
 []m4{...} 
